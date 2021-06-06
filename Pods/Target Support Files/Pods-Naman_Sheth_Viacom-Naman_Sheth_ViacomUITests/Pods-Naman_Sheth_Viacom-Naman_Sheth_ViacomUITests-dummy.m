@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_Naman_Sheth_Viacom_Naman_Sheth_ViacomUITests : NSObject
+@end
+@implementation PodsDummy_Pods_Naman_Sheth_Viacom_Naman_Sheth_ViacomUITests
+@end
